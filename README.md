@@ -1,2 +1,6 @@
-# Swift-Tail
- Tailwind-Inspired Color Theme Utilities for Swift UI iOS Apps
+# FeatherKit
+ Lightweight SwiftUI Design Toolkit & Theme Utilities
+ Inspired by Tailwind CSS concepts and built to complement native SwiftUI framework 
+ By a developer, for developers.
+ 
+ 
